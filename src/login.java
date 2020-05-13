@@ -6,6 +6,11 @@ public class login {
         
         
         bu kunularmu yahxi bop kala
+         
             
+            
+            
+            
+            hi asiya 
     }
 }
